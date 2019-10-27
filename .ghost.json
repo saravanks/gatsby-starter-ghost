@@ -1,10 +1,10 @@
 {
   "development": {
     "apiUrl": "https://boring-noyce-c8be65.netlify.com",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "contentApiKey": "4d95438759a0e5f5a6994aacbd"
   },
   "production": {
     "apiUrl": "https://boring-noyce-c8be65.netlify.com/",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "contentApiKey": "4d95438759a0e5f5a6994aacbd"
   }
 }
