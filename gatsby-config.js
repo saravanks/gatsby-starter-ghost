@@ -57,10 +57,11 @@ module.exports = {
         `gatsby-transformer-sharp`,
         {
             resolve: `gatsby-source-ghost`,
-            options:
-                process.env.NODE_ENV === `development`
-                    ? ghostConfig.development
-                    : ghostConfig.production,
+            options:  {
+                apiUrl: `https://boring-noyce-c8be65.netlify.com`,
+                contentApiKey: `4d95438759a0e5f5a6994aacbd`,
+                version: `v3`,
+            }    
         },
         /**
          *  Utility Plugins
