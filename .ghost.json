@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://localhost:2368",
+    "apiUrl": "https://zen-golick-529b7a.netlify.com",
     "contentApiKey": "4d95438759a0e5f5a6994aacbd"
   },
   "production": {
-    "apiUrl": "http://localhost:2368",
+    "apiUrl": "https://zen-golick-529b7a.netlify.com",
     "contentApiKey": "4d95438759a0e5f5a6994aacbd"
   }
 }

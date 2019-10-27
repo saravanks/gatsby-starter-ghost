@@ -58,7 +58,7 @@ module.exports = {
         {
             resolve: `gatsby-source-ghost`,
             options:  {
-                apiUrl: `https://boring-noyce-c8be65.netlify.com`,
+                apiUrl: `https://zen-golick-529b7a.netlify.com`,
                 contentApiKey: `4d95438759a0e5f5a6994aacbd`,
                 version: `v3`,
             }    
