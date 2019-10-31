@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://zen-golick-529b7a.netlify.com",
+    "apiUrl": "https://boring-noyce-c8be65.netlify.com",
     "contentApiKey": "4d95438759a0e5f5a6994aacbd"
   },
   "production": {
-    "apiUrl": "https://zen-golick-529b7a.netlify.com",
+    "apiUrl": "https://boring-noyce-c8be65.netlify.com",
     "contentApiKey": "4d95438759a0e5f5a6994aacbd"
   }
 }
