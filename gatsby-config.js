@@ -60,7 +60,6 @@ module.exports = {
             options:  {
                 apiUrl: `hhttps://boring-noyce-c8be65.netlify.com`,
                 contentApiKey: `4d95438759a0e5f5a6994aacbd`,
-                version: `v3`,
             }    
         },
         /**
